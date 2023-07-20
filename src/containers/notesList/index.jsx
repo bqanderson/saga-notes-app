@@ -1,5 +1,7 @@
 import React from 'react';
 
+import './style.css';
+
 const dummyData = [
   { name: 'First Note', id: 1 },
   { name: 'Second Note', id: 2 },
