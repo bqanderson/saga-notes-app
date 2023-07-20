@@ -16,6 +16,7 @@
 .form-wrapper input {
   padding: 10px 20px;
   width: 360px;
+  border-radius: 8px;
 }
 
 .form-wrapper button {
