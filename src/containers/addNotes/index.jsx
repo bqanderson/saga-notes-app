@@ -13,10 +13,10 @@ const AddNewNote = () => {
         <input
           type="text"
           name='addTodo'
-          placeholder='Enter Todo Name'
+          placeholder='Enter Note Name'
           onChange={handleChange}
         />
-        <button>Add Todo</button>
+        <button>Add Note</button>
       </div>
     </div>
   )
